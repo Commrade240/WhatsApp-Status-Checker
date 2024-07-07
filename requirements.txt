@@ -1,6 +1,6 @@
 # REQUIRED PIP INSTALLATIONS
 
-# Enter the command in your termial in this project folder
+# https://wa.me/2347010125179?text=👋👋Hello%20commrade,%20save%20my%20contact
 # python -m venv wa-viewer-env
 # pip install -r requirements.txt
 
